@@ -1,6 +1,11 @@
 # greenhouse-guard
 Monitor your greenhouse remotely 24/7!
 
+Monitor variables:
+- Temperature
+- Air humidity
+- Amount of light
+
 Hardware:
 - Raspberry Pi
 - RuuviTag sensor https://ruuvi.com/
