@@ -1,5 +1,6 @@
-# greenhouse-guard
-Monitor your greenhouse remotely 24/7!
+# Greenhouse Guard
+
+## Monitor your greenhouse remotely 24/7!
 
 Monitor variables:
 - Temperature
